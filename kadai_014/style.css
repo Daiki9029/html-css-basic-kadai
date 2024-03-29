@@ -1,0 +1,38 @@
+.flex {
+  text-align: center;
+}
+
+.pink {
+  color: rgb(255, 192, 203);
+}
+
+.blue {
+  color: skyblue;
+}
+
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+#m {
+  color: skyblue;
+}
+
+#p {
+  color: rgb(255, 192, 203);
+}
+
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 40px;
+  letter-spacing: 48px;
+  border-bottom: solid 3px rgb(115, 115, 114);
+  text-shadow: 1px 1px 2px red;
+}
+
+#parent p {
+  font-weight: bold;
+}
